@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/projets/deuxieme_projet/</loc>
+    <loc>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet/</loc>
     <lastmod>2022-05-09T10:51:33+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://lepetzthimothee.github.io/Portfolio/</loc>
     <lastmod>2022-05-09T10:51:33+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/premier_projet/</loc>
+    <loc>https://lepetzthimothee.github.io/Portfolio/projets/premier_projet/</loc>
     <lastmod>2022-05-09T10:51:33+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/</loc>
+    <loc>https://lepetzthimothee.github.io/Portfolio/projets/</loc>
     <lastmod>2022-05-09T10:51:33+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/article/</loc>
+    <loc>https://lepetzthimothee.github.io/Portfolio/blog/article/</loc>
     <lastmod>2022-04-25T11:17:35+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://lepetzthimothee.github.io/Portfolio/blog/</loc>
     <lastmod>2022-04-25T11:17:35+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lepetzthimothee.github.io/Portfolio/tags/</loc>
   </url>
 </urlset>
