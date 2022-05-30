@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on My New Hugo Site</title>
+    <link>http://example.org/projets/</link>
+    <description>Recent content in Projets on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 May 2022 10:51:33 +0200</lastBuildDate><atom:link href="http://example.org/projets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deuxième Projet</title>
+      <link>http://example.org/projets/deuxieme_projet/</link>
+      <pubDate>Mon, 09 May 2022 10:51:33 +0200</pubDate>
+      
+      <guid>http://example.org/projets/deuxieme_projet/</guid>
+      <description>Incroyable de 2e projet</description>
+    </item>
+    
+    <item>
+      <title>Premier Projet</title>
+      <link>http://example.org/projets/premier_projet/</link>
+      <pubDate>Mon, 09 May 2022 10:51:33 +0200</pubDate>
+      
+      <guid>http://example.org/projets/premier_projet/</guid>
+      <description>Je vois rien</description>
+    </item>
+    
+  </channel>
+</rss>
