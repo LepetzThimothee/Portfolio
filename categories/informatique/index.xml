@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projets on Mon e-Portfolio</title>
-    <link>https://lepetzthimothee.github.io/Portfolio/projets/</link>
-    <description>Recent content in Projets on Mon e-Portfolio</description>
+    <title>Informatique on Mon e-Portfolio</title>
+    <link>https://lepetzthimothee.github.io/Portfolio/categories/informatique/</link>
+    <description>Recent content in Informatique on Mon e-Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 09 May 2022 10:51:33 +0200</lastBuildDate><atom:link href="https://lepetzthimothee.github.io/Portfolio/projets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 10:51:33 +0200</lastBuildDate><atom:link href="https://lepetzthimothee.github.io/Portfolio/categories/informatique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deuxième Projet</title>
       <link>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet/</link>

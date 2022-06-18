@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Mon e-Portfolio</title>
+    <link>https://lepetzthimothee.github.io/Portfolio/categories/</link>
+    <description>Recent content in Categories on Mon e-Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 May 2022 10:51:33 +0200</lastBuildDate><atom:link href="https://lepetzthimothee.github.io/Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentation</title>
+      <link>https://lepetzthimothee.github.io/Portfolio/categories/documentation/</link>
+      <pubDate>Mon, 09 May 2022 10:51:33 +0200</pubDate>
+      
+      <guid>https://lepetzthimothee.github.io/Portfolio/categories/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informatique</title>
+      <link>https://lepetzthimothee.github.io/Portfolio/categories/informatique/</link>
+      <pubDate>Mon, 09 May 2022 10:51:33 +0200</pubDate>
+      
+      <guid>https://lepetzthimothee.github.io/Portfolio/categories/informatique/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
