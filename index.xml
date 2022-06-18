@@ -6,23 +6,50 @@
     <description>Recent content on Mon e-Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 09 May 2022 10:51:33 +0200</lastBuildDate><atom:link href="https://lepetzthimothee.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 10:51:33 +0200</lastBuildDate><atom:link href="https://lepetzthimothee.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deuxième Projet</title>
-      <link>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet/</link>
-      <pubDate>Mon, 09 May 2022 10:51:33 +0200</pubDate>
+      <link>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet_anglais/</link>
+      <pubDate>Thu, 09 Jun 2022 10:51:33 +0200</pubDate>
       
-      <guid>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet/</guid>
-      <description>Incroyable de 2e projet</description>
+      <guid>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet_anglais/</guid>
+      <description>Dubbing</description>
+    </item>
+    
+    <item>
+      <title>Deuxième Projet</title>
+      <link>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet_ihm/</link>
+      <pubDate>Thu, 09 Jun 2022 10:51:33 +0200</pubDate>
+      
+      <guid>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet_ihm/</guid>
+      <description>2e projet d&amp;rsquo;IHM</description>
     </item>
     
     <item>
       <title>Premier Projet</title>
-      <link>https://lepetzthimothee.github.io/Portfolio/projets/premier_projet/</link>
-      <pubDate>Mon, 09 May 2022 10:51:33 +0200</pubDate>
+      <link>https://lepetzthimothee.github.io/Portfolio/projets/premier_projet_anglais/</link>
+      <pubDate>Thu, 09 Jun 2022 10:51:33 +0200</pubDate>
       
-      <guid>https://lepetzthimothee.github.io/Portfolio/projets/premier_projet/</guid>
-      <description>Je vois rien</description>
+      <guid>https://lepetzthimothee.github.io/Portfolio/projets/premier_projet_anglais/</guid>
+      <description>Pitch Contest</description>
+    </item>
+    
+    <item>
+      <title>Premier Projet</title>
+      <link>https://lepetzthimothee.github.io/Portfolio/projets/premier_projet_ihm/</link>
+      <pubDate>Thu, 09 Jun 2022 10:51:33 +0200</pubDate>
+      
+      <guid>https://lepetzthimothee.github.io/Portfolio/projets/premier_projet_ihm/</guid>
+      <description>1er projet d&amp;rsquo;IHM</description>
+    </item>
+    
+    <item>
+      <title>Troisième Projet</title>
+      <link>https://lepetzthimothee.github.io/Portfolio/projets/troisieme_projet_ihm/</link>
+      <pubDate>Thu, 09 Jun 2022 10:51:33 +0200</pubDate>
+      
+      <guid>https://lepetzthimothee.github.io/Portfolio/projets/troisieme_projet_ihm/</guid>
+      <description>3e projet d&amp;rsquo;IHM</description>
     </item>
     
     <item>

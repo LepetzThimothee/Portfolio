@@ -2,26 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lepetzthimothee.github.io/Portfolio/categories/anglais/</loc>
+    <lastmod>2022-06-09T10:51:33+02:00</lastmod>
+  </url><url>
     <loc>https://lepetzthimothee.github.io/Portfolio/categories/</loc>
-    <lastmod>2022-05-09T10:51:33+02:00</lastmod>
+    <lastmod>2022-06-09T10:51:33+02:00</lastmod>
   </url><url>
-    <loc>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet/</loc>
-    <lastmod>2022-05-09T10:51:33+02:00</lastmod>
+    <loc>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet_anglais/</loc>
+    <lastmod>2022-06-09T10:51:33+02:00</lastmod>
   </url><url>
-    <loc>https://lepetzthimothee.github.io/Portfolio/categories/documentation/</loc>
-    <lastmod>2022-05-09T10:51:33+02:00</lastmod>
+    <loc>https://lepetzthimothee.github.io/Portfolio/projets/deuxieme_projet_ihm/</loc>
+    <lastmod>2022-06-09T10:51:33+02:00</lastmod>
   </url><url>
-    <loc>https://lepetzthimothee.github.io/Portfolio/categories/informatique/</loc>
-    <lastmod>2022-05-09T10:51:33+02:00</lastmod>
+    <loc>https://lepetzthimothee.github.io/Portfolio/categories/ihm/</loc>
+    <lastmod>2022-06-09T10:51:33+02:00</lastmod>
   </url><url>
     <loc>https://lepetzthimothee.github.io/Portfolio/</loc>
-    <lastmod>2022-05-09T10:51:33+02:00</lastmod>
+    <lastmod>2022-06-09T10:51:33+02:00</lastmod>
   </url><url>
-    <loc>https://lepetzthimothee.github.io/Portfolio/projets/premier_projet/</loc>
-    <lastmod>2022-05-09T10:51:33+02:00</lastmod>
+    <loc>https://lepetzthimothee.github.io/Portfolio/projets/premier_projet_anglais/</loc>
+    <lastmod>2022-06-09T10:51:33+02:00</lastmod>
+  </url><url>
+    <loc>https://lepetzthimothee.github.io/Portfolio/projets/premier_projet_ihm/</loc>
+    <lastmod>2022-06-09T10:51:33+02:00</lastmod>
   </url><url>
     <loc>https://lepetzthimothee.github.io/Portfolio/projets/</loc>
-    <lastmod>2022-05-09T10:51:33+02:00</lastmod>
+    <lastmod>2022-06-09T10:51:33+02:00</lastmod>
+  </url><url>
+    <loc>https://lepetzthimothee.github.io/Portfolio/projets/troisieme_projet_ihm/</loc>
+    <lastmod>2022-06-09T10:51:33+02:00</lastmod>
   </url><url>
     <loc>https://lepetzthimothee.github.io/Portfolio/blog/article/</loc>
     <lastmod>2022-04-25T11:17:35+02:00</lastmod>
